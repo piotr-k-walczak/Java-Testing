@@ -1,0 +1,7 @@
+.clover
+.gradle
+.idea
+build
+gradle
+target
+config
